@@ -1,0 +1,1469 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2010-11-13 02:20+0100\n"
+"PO-Revision-Date: 2010-11-13 02:20+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr@ijekavian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [campaign]: id=The_Cost_of_Living
+#: The_Cost_Of_Living/_main.cfg:14
+msgid "The Cost of Living"
+msgstr ""
+
+#. [campaign]: id=The_Cost_of_Living
+#: The_Cost_Of_Living/_main.cfg:15
+msgid "TCoL"
+msgstr ""
+
+#. [campaign]: id=The_Cost_of_Living
+#: The_Cost_Of_Living/_main.cfg:19
+msgid ""
+"Not refraining from killing those who stand in his way, nor from stealing "
+"from those who possessions would enrich his own, a young outlaw by the name "
+"of Cavil seeks only one thing: to secure his living once and for all by "
+"making the perfect heist. Follow Cavil and his companion Briel in their "
+"lifes outside of the law, and find out what this life is going to cost "
+"them...\n"
+"\n"
+"(Intermediate level, 7 scenarios)"
+msgstr ""
+
+#. [campaign]: id=The_Cost_of_Living
+#: The_Cost_Of_Living/_main.cfg:23
+msgid "(Easy)"
+msgstr ""
+
+#. [campaign]: id=The_Cost_of_Living
+#: The_Cost_Of_Living/_main.cfg:23
+msgid "(Difficult)"
+msgstr ""
+
+#. [campaign]: id=The_Cost_of_Living
+#: The_Cost_Of_Living/_main.cfg:23
+msgid "Highwayman"
+msgstr ""
+
+#. [campaign]: id=The_Cost_of_Living
+#: The_Cost_Of_Living/_main.cfg:23
+msgid "(Normal)"
+msgstr ""
+
+#. [campaign]: id=The_Cost_of_Living
+#: The_Cost_Of_Living/_main.cfg:23
+msgid "Bandit"
+msgstr ""
+
+#. [campaign]: id=The_Cost_of_Living
+#: The_Cost_Of_Living/_main.cfg:23
+msgid "Thug"
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:17
+msgid ""
+"A young man by the name of Cavil is a respected and violent outlaw, not "
+"refraining from killing those who stand in his way, nor from stealing from "
+"those whose possessions would enrich his own. Where most of Wesnoth's "
+"inhabitants would follow a more righteous approach to making a living, Cavil "
+"had no other choice but to follow the path of the outlaw."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:20
+msgid ""
+"Given that his mother died in childbirth, Cavil was left in the care of his "
+"father who was more obsessed with his own military career than with taking "
+"care of his only son. Hence, Cavil was on his own much from the start. "
+"Contrary to many others who foolishly attempt a life outside of the law, "
+"Cavil is highly intelligent and cheated himself into becoming the leader of "
+"his own group of criminals."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:23
+msgid ""
+"For Cavil, there is only one overarching motif: to make the perfect heist "
+"that would secure his living once and for all. It was not until very "
+"recently that he acquired the knowledge of a treasure well hidden but worth "
+"more than he could ever imagine. Together with his comrades, Cavil set out "
+"on a quest to find this treasure. Not knowing exactly where it is situated, "
+"Cavil is destined to meet with a highly devious contact on the other side of "
+"the Great Continent..."
+msgstr ""
+
+#. [side]: type=Thug, id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:49
+msgid "Cavil"
+msgstr ""
+
+#. [unit]: id=Briel, type=Outlaw
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:62
+msgid "Briel"
+msgstr ""
+
+#. [side]
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:91
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:83
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:168
+msgid "Passive enemy"
+msgstr ""
+
+#. [side]: id=enemy_leader, type=Orcish Sovereign
+#. [side]
+#. [side]: id=enemy_leader, type=Halberdier
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:79
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:106
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:144
+msgid "Active enemy"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:131
+msgid ""
+"It was getting cold and breezy in the evening twilight near Estya, where "
+"Cavil set camp earlier that day. Rustling sounds could be heard emerging "
+"from Cavil's tent..."
+msgstr ""
+
+#. [message]: speaker=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:144
+msgid "That was just what I needed."
+msgstr ""
+
+#. [message]: speaker=Briel
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:148
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:302
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:519
+msgid "..."
+msgstr ""
+
+#. [message]: speaker=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:152
+msgid ""
+"The night is about to come. We should get going so we can reach the galleon "
+"by the time it departs the day after tomorrow. I will dismantle our tents "
+"and pack our belongings."
+msgstr ""
+
+#. [message]: speaker=Briel
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:156
+msgid ""
+"We may not see the Dulatus Hills any time soon again. Best, we stock up from "
+"the local dwellings and get anything we can find in them."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:161
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:329
+msgid "Bring Cavil to the transport galleon"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:253
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:210
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:254
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:302
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:165
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:333
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:371
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:264
+msgid "Death of Cavil"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:257
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:214
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:258
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:306
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:169
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:337
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:375
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:268
+msgid "Death of Briel"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:269
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:218
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:314
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:173
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:345
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:379
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:272
+msgid "Turns run out"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:230
+msgid ""
+"There are patrols on guard. We have no other choice but to fight them if we "
+"want to reach the galleon in time."
+msgstr ""
+
+#. [unit]: id=Brevryn, type=Bandit
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:272
+msgid "Brevryn"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:290
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:323
+msgid "Cloaked man"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:291
+msgid "Hey you! Patrols are coming!"
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:298
+msgid "(The last thing we need right now is being chased by patrols.)"
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:302
+msgid "Out of our way! Do not draw their attention upon us!"
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:309
+msgid ""
+"He seems to be heading for the port just as we are. It does not matter to me "
+"if he comes with us - we should just get out of here as quickly as possible."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:316
+msgid "Fine by me. You, 'eyepatch', come with us and stay close!"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:324
+msgid "My gratitude. The name is Brevryn, by the way."
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:261
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:310
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:341
+msgid "Death of Brevryn"
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:365
+msgid "Wait for me!"
+msgstr ""
+
+#. [message]: id=sergeant
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:372
+msgid "Sergeant"
+msgstr ""
+
+#. [message]: id=sergeant
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:373
+msgid "They are about to board the ship! Do not let them escape!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_01.cfg:381
+msgid ""
+"Cavil and his fellow outlaws embarked on the galleon undetected by the "
+"ship's crew. The pursuing patrols could not manage to stop the vehicle from "
+"departing in time. And so the journey began..."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:17
+msgid ""
+"From Estya in the Dulatus Hills, Cavil and his group followed the River "
+"Aethen heading west. After stormy days and weeks they spent hiding in the "
+"bulk of a heavily shaking galleon, feeding from whatever little they could "
+"find in the cargo hold, they began getting disturbed by the fact that the "
+"ship had been slowly filling with water. Fortunately, with the galleon "
+"currently being in the midst of the Aethenwood forest, exactly where they "
+"wanted to go in the first place, the criminals left the ship and swam ashore."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:21
+msgid ""
+"Filled with exhaustion, the group made camp for the night, with Cavil still "
+"being uneasy about Brevryn's presence. The cloaked figure had been "
+"accompanying them since they left the port of Estya. Merely indicating that "
+"he desired to get as far away from the Dulatus Hills as possible, Brevryn "
+"was a man of few words but expressed his desire to join Cavil and his group "
+"on whatever adventure they were going."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:24
+msgid ""
+"Before coming back to strength again, the outlaws needed to realize that "
+"they were not the only souls in this very spot. Despite their graceful gait "
+"and their calm and easy nature, three approaching elves seemed particularly "
+"troubled when they mentioned orcs tarnishing their woods. The outlaws "
+"reacted indifferently at first, but then, some disturbingly looking "
+"creatures emerged from the tree lines..."
+msgstr ""
+
+#. [side]: type=Elvish Hero, id=ElvishHero
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:58
+msgid "Elves"
+msgstr ""
+
+#. [side]: id=Gronak, type=Orcish Assassin
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:118
+msgid "Orcs"
+msgstr ""
+
+#. [side]: id=Gronak, type=Orcish Assassin
+#. [unit]: id=Gronak, type=Orcish Assassin
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:119
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:188
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:361
+msgid "Gronak"
+msgstr ""
+
+#. [message]: id=ElvishCaptain
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:203
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:234
+msgid "Elf"
+msgstr ""
+
+#. [message]: id=ElvishCaptain
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:204
+msgid ""
+"You are not supposed to be in our woods, so I can not allow any of you to go "
+"any further. Turn around and leave immediately."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:208
+msgid "Our only intent is to cross your woods. No harm done in that, is there?"
+msgstr ""
+
+#. [message]: id=Gronak
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:212
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:229
+msgid "Orcish leader"
+msgstr ""
+
+#. [message]: id=Gronak
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:213
+msgid ""
+"You are wasting your breath, human. Those elves will never let you pass "
+"their forest. Not voluntarily, that is..."
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:217
+msgid ""
+"Maybe we should just turn around and avoid fighting both elves and orcs."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:221
+msgid ""
+"Either we fight them both, or we side with the orcs and fight the elves "
+"together. Either way, we are not crossing this forest without getting past "
+"those elves."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:225
+msgid "She is making an excellent point."
+msgstr ""
+
+#. [message]: id=Gronak
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:230
+msgid ""
+"So be it, humans. Your harsh clubs and Gronak's toxic knives shall show them "
+"whom to ridicule and whom not."
+msgstr ""
+
+#. [message]: id=ElvishCaptain
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:235
+msgid ""
+"Neither of you shall proceed. We may seem outnumbered now, but "
+"reinforcements are already under way."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:249
+msgid "Defeat the Elvish leader"
+msgstr ""
+
+#. [objective]: condition=lose
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:265
+msgid "Death of Gronak"
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:308
+msgid ""
+"We are not going to make it through these woods without the orc's assistance."
+msgstr ""
+
+#. [message]: id=Gronak
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:326
+msgid ""
+"There is not a single piece of meat you could harvest from those skinny "
+"creatures. I am starving..."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:333
+msgid "Calm down there, would you? ... Just refrain from turning on us."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:340
+msgid ""
+"It was a nice charade you pulled off earlier with the elves, but now, let us "
+"come to business, orc."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:345
+msgid ""
+"Brevryn surprisingly realized that the encounter with the orcs was "
+"deliberate rather than accidental. Listening to their every word, Brevryn "
+"followed the ongoing conversation between Cavil, Briel and Gronak with "
+"abundant attention."
+msgstr ""
+
+#. [message]: id=Gronak
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:352
+msgid ""
+"Gronak went through a lot of trouble to create a sketch as detailed as this "
+"one. I will need to be properly compensated."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:359
+msgid ""
+"You will receive your share soon enough. Hand over the map to my collegue, "
+"then we shall part ways for now until the job is done."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:366
+msgid "A 'collegue', huh?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_02.cfg:371
+msgid ""
+"With the map now handed over, the outlaws and the orcs continued their "
+"journeys on separate ways. Cavil and his group headed to the north-west, "
+"while the orcs carried their abhorrent scent in a different direction."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:18
+msgid ""
+"The days Cavil and his group spent in Aethenwood wore on the them, and after "
+"a few days of vigorously walking the plains that spawn between Aethenwood "
+"and the Great Ocean, they finally reached the Smoking Musket, a disturbing "
+"place well known to the outlaw for its activities of illegal gambling, and, "
+"moreover, of slave trade. With many mercenaries to hire from, Cavil will "
+"find here the opportunity to acquire the supports much needed for his "
+"upcoming heist."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:21
+msgid ""
+"Brevryn, now having been accompanying Cavil and Briel for several weeks, was "
+"left much unaware as to the precise nature of their journey. However, it was "
+"this morning that the two felt comfortable enough sharing their secret with "
+"him, leaving Brevryn with astonishment and bewilderment in his eyes. Seeing "
+"the mysterious man in battle, even Cavil needed to realize that Brevryn "
+"could be an asset on their adventure rather than a burden."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:24
+msgid ""
+"With closer proximity to the Smoking Musket, the air was slowly filling with "
+"the sounds of howling and mourning. Not knowing what would eventually reveal "
+"itself behind those strange noises, the bandits were approaching vigilantly "
+"and with a disquiet following their souls..."
+msgstr ""
+
+#. [label]
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:202
+msgid "The Smoking Musket"
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:228
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:242
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:247
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:256
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:273
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:443
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:569
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:715
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:841
+msgid "Huntsman"
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:229
+msgid "Who is approaching without permission?"
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:233
+msgid "Someone who wants to do some business in the tavern."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:238
+msgid ""
+"The huntsman suspiciously glimpsed at Cavil's face, profoundly inspected "
+"Briel's garment, and obnoxiously stared at Brevryn and his large, "
+"intimidating mace."
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:243
+msgid ""
+"Few people know about this place, and it would not be the first time that "
+"the Crown sent out soldiers in disguise to find it."
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:248
+msgid ""
+"We are cautious around here, and we cannot let you or anyone else inside "
+"unless you prove yourself to be worthy of entering."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:252
+msgid ""
+"Do you want us to swing our clubs while you are drawing on your little "
+"arrows, or do you have something more specific in mind?"
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:257
+msgid ""
+"I have, indeed. You will be challenged on four days and four nights on which "
+"you must fight against some appalling creatures that we will dispatch in "
+"your direction. If you survive them, you may enter the Smoking Musket. If "
+"you do not survive them, however, you may not enter."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:261
+msgid "That is the kind of spirit I am looking for."
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:265
+msgid "You know, huntsman, I could just crush your skull..."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:269
+msgid ""
+"There is nothing up their arsenal that could intimidate us in any way. We "
+"will accept the challenge."
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:274
+msgid ""
+"Good. The rules are simple: Defeat all the creatures on the upcoming four "
+"days and nights, do not approach the Smoking Musket during this time, and do "
+"not disturb the crew, nor the spectators. Give us something nice to watch, "
+"would you?"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:298
+msgid "Defeat all waves of enemies"
+msgstr ""
+
+#. [message]: id=crew1
+#. [message]: id=crew2
+#. [message]: id=crew3
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:338
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:451
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:577
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:652
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:723
+msgid "Crew"
+msgstr ""
+
+#. [message]: id=crew1
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:339
+msgid "Untie the goblins!"
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:436
+msgid "This is your big challenge?"
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:444
+msgid ""
+"Certainly not. We have more intimidating creatures to offer to you. You will "
+"see, my friend."
+msgstr ""
+
+#. [message]: id=crew1
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:452
+msgid "Let the Ogres out of their cages!"
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:570
+msgid "You bandits are sturdier than I thought."
+msgstr ""
+
+#. [message]: id=crew2
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:578
+msgid "Set free the nagas!"
+msgstr ""
+
+#. [message]: id=crew3
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:653
+msgid "Release the sea monster!"
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:703
+msgid "What is that thing?!"
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:716
+msgid "You are impressive indeed, my friends."
+msgstr ""
+
+#. [message]: id=crew1
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:724
+msgid "Throw the rest we can spare at them!"
+msgstr ""
+
+#. [message]: id=Smok
+#: The_Cost_Of_Living/scenarios/scenario_03.cfg:842
+msgid ""
+"I honor your achievements, strangers, and welcome you to the Smoking Musket. "
+"You have proven yourself to be worthy of entering. I will see you at the "
+"tavern for some liquor on the house."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:17
+msgid ""
+"After four days and nights of fighting against eerie creatures, the group of "
+"outlaws could finally find some refreshment. While Cavil went with the "
+"huntsman for some drinks in the tavern just to stock up his recruits shortly "
+"after, and Briel sought for resting in the local inn, Brevryn seemed to have "
+"other plans as he left quietly without consulting with the others."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:20
+msgid ""
+"The next day, Cavil and Briel moved on to reach the Bay of Pearls. Living "
+"peacefully along with some human farmers, it is here where a group of mermen "
+"founded a permanent settlement after the turmoil of Queen Asheviere. "
+"Unbeknownst to most human beings, the merfolk are protecting a treasure of "
+"great value in the bay, and it is this treasure that has been attracting "
+"Cavil's attention for a long time. With the help of Gronak's map that lead "
+"him here, Cavil is about to make his olden dream come true..."
+msgstr ""
+
+#. [side]: type=Merman Netcaster, id=merman1
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:65
+msgid "Mermen (north-east)"
+msgstr ""
+
+#. [side]: type=Mermaid Enchantress, id=merman2
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:79
+msgid "Mermen (north-west)"
+msgstr ""
+
+#. [side]
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:101
+msgid "Mermen (guards)"
+msgstr ""
+
+#. [side]
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:154
+msgid "Humans"
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:217
+msgid ""
+"This is the day I have been waiting for for a very long time. Today, we will "
+"retrieve the treasure that is going to provide us with wealth for the rest "
+"of our lives, therefore nothing is allowed to go wrong."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:221
+msgid ""
+"Let us go through the plan we crafted earlier on one last time to ensure "
+"that everything will be proceeding as planned."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:225
+msgid "All right."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:247
+msgid ""
+"We will be heading back to the Smoking Musket on separate ways and rejoin "
+"there later. Then, we can go where ever we desire. That should be it."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:251
+msgid "I hope so..."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:256
+msgid "Bring Briel to the keep in the north west"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:260
+msgid "Bring Cavil to the boat"
+msgstr ""
+
+#. [message]: id=peasant
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:355
+msgid "Peasant"
+msgstr ""
+
+#. [message]: id=peasant
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:356
+msgid ""
+"Please leave our farms immediately, or we will be forced to defend ourselves."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:360
+msgid "Do you really think you stand a chance against us?"
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:404
+msgid "There it is!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:409
+msgid "Meanwhile, at the merman settlement..."
+msgstr ""
+
+#. [message]: id=guard1
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:417
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:591
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:601
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:614
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:630
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:640
+msgid "Chief Guard"
+msgstr ""
+
+#. [message]: id=guard1
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:418
+msgid "What have you done to our settlement?!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:424
+msgid ""
+"Briel stayed calm, knowing that the mermen could not outmaneuver her on "
+"land. Then, all of the sudden, the sound of cantering could be heard "
+"emerging from the north."
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:484
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:498
+msgid "Officer"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:485
+msgid ""
+"Behold! In the name of queen Li'sar and of the High Council, the human "
+"bandits are under arrest!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:490
+msgid ""
+"As she heard the voice of the officer through his helmet, Briel noticed "
+"something familiar about it."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:494
+msgid "Do I know you from somewhere?"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:499
+msgid "What, do you not recognize me through this helmet?"
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:503
+msgid "Brevryn...? Is that you?"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:507
+msgid "Indeed it is."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:511
+msgid "What is going on here?"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:515
+msgid ""
+"Oh, do not pretend to be more simple-minded than you are. Do you really "
+"think it was a coincidence that I stumbled across you and your young man by "
+"mere accident?"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:523
+msgid ""
+"You really should have listened to his mistrustful voice. But enough "
+"talking... Take her!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:531
+msgid "Meanwhile, at the dock..."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:548
+msgid ""
+"The treasure is mine! Now, I should really meet Briel at the Smoking Musket. "
+"I wonder if she made it in one piece, though..."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:577
+msgid "The signal fire is set up. I only hope that Cavil is in position..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:583
+msgid "Meanwhile, at the island..."
+msgstr ""
+
+#. [message]: id=guard1
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:592
+msgid ""
+"You know, there never has been any attempt to steal the treasure, and there "
+"never will be."
+msgstr ""
+
+#. [message]: id=guard2
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:596
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:609
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:635
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:645
+msgid "Guard"
+msgstr ""
+
+#. [message]: id=guard2
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:597
+msgid "And what if you are wrong?"
+msgstr ""
+
+#. [message]: id=guard1
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:602
+msgid ""
+"Nobody even knows about this place, not even among the merfolk. We could "
+"just as well visit the Three Sisters, come back in a couple of suns... "
+"nothing would happen."
+msgstr ""
+
+#. [message]: id=guard2
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:610
+msgid "Look over there! Is that our settlement on fire?"
+msgstr ""
+
+#. [message]: id=guard1
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:615
+msgid "Where?"
+msgstr ""
+
+#. [message]: id=guard1
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:631
+msgid "You are right, something is definately wrong there."
+msgstr ""
+
+#. [message]: id=guard2
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:636
+msgid "Then we best check it out right now?!"
+msgstr ""
+
+#. [message]: id=guard1
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:641
+msgid ""
+"Absolutely! As I told you... nobody is interested in this little island, "
+"just in waging wars with our settlements. And you thought somebody would "
+"actually steal the treasure..."
+msgstr ""
+
+#. [message]: id=guard2
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:646
+msgid "Seems you were right after all."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:730
+msgid ""
+"The signal fire is set, which means that it should have attracted the "
+"attention of the guards by now. I should depart."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:737
+msgid ""
+"The signal fire is set, which means that it should have attracted the "
+"attention of the guards by now. I should better reach that boat soon before "
+"they realize that the signal fire is a diversion."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:766
+msgid "I will best depart immediately."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_04.cfg:782
+msgid ""
+"I am in position, but Briel has not set the signal fire yet. With the guards "
+"still at post, it is too dangerous to depart now."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:17
+msgid ""
+"Little more than two decades ago, an orphanage in the Dulatus Hills was "
+"brought a young girl whose parents had just been killed in a raid by "
+"excruciating orcs. Facing neglection, discrimination and finally abuse with "
+"her new caretakers, the agonized yet inherently light-hearted girl was "
+"predestined to make a living on her own, trying to find the good in people "
+"she never experienced thus far. Her name was Briel."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:20
+msgid ""
+"While starting with robbing farmers for food, Briel quickly found her way "
+"into the organized forms of crime, meeting Cavil somewhere along that path. "
+"Uneasy with his sturdy nature at first, Briel soon got romantically involved "
+"with Cavil and has stayed unseparated from him ever since... until now."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:23
+msgid ""
+"After Briel got apprehended by Brevryn, now disclosed as a high-ranking "
+"officer working for the Crown of Wesnoth, she was taken to a penal facility "
+"where she was interrogated by Brevryn and severely tortured for information "
+"on the whereabouts of her companion, who managed to escape along with the "
+"stolen treasure. For her silence and the crimes she conducted, a makeshift "
+"trial concluded that Briel is to be facing execution by decapitation."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:26
+msgid ""
+"It did not take Cavil long of a time to realize that Briel had been "
+"apprehended at the Bay of Pearls, and so he managed to trace her back to a "
+"bastille near Halstead, determined to free her from her predicament..."
+msgstr ""
+
+#. [side]
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:184
+msgid "Prisoners"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:298
+msgid ""
+"This was your choice. Now be ready to face the consequences of your actions."
+msgstr ""
+
+#. [message]: id=mercenary
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:326
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:349
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:464
+msgid "Mercenary"
+msgstr ""
+
+#. [message]: id=mercenary
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:327
+msgid ""
+"No offense, boss, but you are asking us to break into a garrison under "
+"military protection just in order to rescue that wretched girl. This is a "
+"suicide mission!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:336
+msgid "Cavil beat the mercenary to the ground."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:340
+msgid ""
+"Now listen to me carefully, scoundrel. The concept is simple: I pay you "
+"gold, and you do whatever I instruct you to do. Do we have an agreement on "
+"that?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:345
+msgid ""
+"A respectable amount of blood gushed out of the mouth of the beaten-up "
+"mercenary, who, after a moment of contemplation, stood up again from the "
+"ground, only to face Cavil with a now obedient look in his eyes."
+msgstr ""
+
+#. [message]: id=mercenary
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:350
+msgid "Yes, boss, I understand."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:354
+msgid ""
+"Good. The only thing we need to do is to find Briel, get her out of her cell "
+"and bring her back safely. Now get moving!"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:359
+msgid "Grab the key to the prison cells"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:363
+msgid "Use the key to unlock Briel from her cell"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:367
+msgid "Bring Briel to the signpost"
+msgstr ""
+
+#. [message]: id=$stored_units[0].id
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:413
+msgid "Intruder alert!"
+msgstr ""
+
+#. [message]: id=mercenary
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:465
+msgid "I knew signing up for this was not worth it..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:486
+msgid "I obtained the key to the prison cells."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:517
+msgid "Oh no, I have perished. Someone... the key..."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:575
+msgid "The cell is now unlocked."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:579
+msgid "Thank you for rescuing me."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:583
+msgid "We do not have time for talking. Let us get out of here."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:759
+msgid "I believe it is best if we headed straight to the east."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:763
+msgid ""
+"Straight to the east lies a place so horrifying that it makes me sick to my "
+"stomach to even say its name."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:767
+msgid ""
+"With reinforcements arriving from the north-west and the south, cutting off "
+"every convenient route of escape, I do not think we are in the place to "
+"choose from alternatives."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_05.cfg:772
+msgid ""
+"No reasonable man would ever turn to were Cavil and Briel were heading now "
+"unless in a moment of great desperation, and thus, the patrols, who were "
+"even pursuing the outlaws a couple of days, eventually turned round to save "
+"their own souls from the madness they would be facing in the Grey Woods."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:18
+msgid ""
+"The gloomy and misty Grey Woods are a place so uninviting that not even an "
+"owl would dare to hool here at night, yet this of all the places in the land "
+"of Wesnoth is were Cavil and Briel arrived after escaping from Loyalist "
+"forces. The two took the time to reflect about the recent happenings, and, "
+"now knowing what Brevryn did to Briel, there was an outrage, an anger, a "
+"desire for revenge so strong inside Cavil that even Briel found it difficult "
+"to could calm him down."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:21
+msgid ""
+"Uncertain about what to do next, Briel was more inclined to go back to the "
+"Smoking Musket where Cavil had deposited the merfolk treasure before coming "
+"to her rescue, while Cavil was about to let his darkest emotions dictate his "
+"next move. Their argument was interrupted when a disturbingly looking "
+"creature emerged from the tree lines..."
+msgstr ""
+
+#. [side]
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:136
+msgid "Patrols"
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:178
+msgid "Who is the familiar face by that tree over there?"
+msgstr ""
+
+#. [message]: id=Gronak
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:206
+msgid ""
+"Ahh, there you are, human. Gronak told his master that you would bring great "
+"profit to him, but you did not pay in time for the services I provided to "
+"you. Now, my master is very angry and has decided to come after you."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:210
+msgid "Are you threatening me there, orc?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:218
+msgid "The sound of orcish war drums was lying in the humid air."
+msgstr ""
+
+#. [message]: id=Gronak
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:222
+msgid "Gronak better leaves now..."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:237
+msgid ""
+"We should better take his words seriously and find a place were we can "
+"defend ourselves if necessary."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:242
+msgid "Survive for 30 turns"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:246
+msgid "<span color='white'>-or-</span>"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:250
+msgid "Defeat the Orcish leader"
+msgstr ""
+
+#. [message]: id=goblin_rouser
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:293
+msgid "Goblin"
+msgstr ""
+
+#. [message]: id=goblin_rouser
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:295
+msgid "We have made contact!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:352
+msgid ""
+"Look! That abandoned camp over there should provide us with shelter and with "
+"a defensive advantage."
+msgstr ""
+
+#. [message]: id=Gronak
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:411
+msgid "Arrrghhh... What of an undignified death for Gronak."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:421
+msgid ""
+"Finally! I never felt quite comfortable around that despicable creature."
+msgstr ""
+
+#. [message]: id=patrol
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:466
+msgid "Patrol"
+msgstr ""
+
+#. [message]: id=patrol
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:467
+msgid ""
+"Behold! We approach from Dan'Tonk with a decree signed by Grand Knight "
+"Brevryn to arrest two human fugitives, one male, one female."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:474
+msgid ""
+"As much as I would like to help you out, my friends of the law, there are "
+"more imminent issues in this place if only you would dare to take a closer "
+"look around."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_06.cfg:482
+msgid ""
+"As the soldiers realized they unwittingly entered a grisly battlefield, the "
+"orcs were already advancing on their position. The opportunistic situation "
+"proved to be the perfect means of escape for Cavil and Briel, who headed "
+"eastward, for the city of Dan'Tonk..."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:17
+msgid ""
+"The blistering sunlight spread across the knolls south of Gryphon Mountain "
+"and called for a lot of endurance by Cavil and Briel to make it through "
+"their eastward journey to the largest of the cities of Wesnoth - the city of "
+"Dan'Tonk. By the time they reached the municipality, the semblance of the "
+"sky foreshadowed precipitating days to come."
+msgstr ""
+
+#. [part]
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:20
+msgid ""
+"As the cicatrices scattered across Briel's body began to form permanent "
+"scars from her interrogation by Brevryn, Cavil was more than ever determined "
+"to slay the Loyalist officer responsible for his companion's suffering. "
+"Approaching from a stretch of hills, the two outlaws and their contracted "
+"mercenaries came to a standoff against Brevryn and his military forces "
+"during a cloudy morning..."
+msgstr ""
+
+#. [side]: id=Brevryn, type=Grand Knight
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:95
+msgid "Enemy"
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:158
+msgid "You cunning, tormenting miscreant! You will pay for what you did!"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:165
+msgid ""
+"I believe you are mistaken there. It is you who is the criminal. It is you "
+"who robbed and murdered for your own self-indulgent aspirations. And it is "
+"only justice that who is responsible for doing so is penalized for their "
+"wrongdoings."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:172
+msgid "Once I have dealt with you..."
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:179
+msgid ""
+"You return to the Smoking Musket to collect your theft? We raided that "
+"rotten place while you were wandering in woodland."
+msgstr ""
+
+#. [message]: id=Briel
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:186
+msgid "What a blunder!"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:193
+msgid ""
+"There is nothing for you to return to. Surrender now, and I will show mercy."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:201
+msgid ""
+"Though for a furious Cavil, there was only one thing on mind: revenge. And "
+"so the final showdown between the two parties began..."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:206
+msgid "Defeat Brevryn"
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:247
+msgid "Now I will deliver the killing blow."
+msgstr ""
+
+#. [message]: id=$second_unit
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:253
+msgid "I got him."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:260
+msgid "Wait, let me deliver the killing blow!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:308
+msgid ""
+"Cavil and Briel encircled the now vulnerable officer who stayed calm and "
+"focused."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:317
+msgid "Take your last breath, tinman."
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:326
+msgid "You really are a bold young man, are you?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:336
+msgid ""
+"With a swift stroke, Cavil swung his club to smash the officer to death..."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:358
+msgid "...who nimbly evaded the attack."
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:362
+msgid ""
+"I really wish I could do otherwise, but you leave me no other choice but to "
+"retaliate."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:368
+msgid ""
+"The Grand Knight pulled together his last strength for a direct assault "
+"against Cavil when his prolonged lance pierced through something that "
+"blocked his way..."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:393
+msgid "NOOOOOooooo!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:398
+msgid ""
+"Shocked, witnessing his companion's demise, Cavil dropped his club in "
+"disregard of his own prospect."
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:402
+msgid ""
+"I am truly sorry for your loss, but contrary to her, you are facing a life "
+"in prison."
+msgstr ""
+
+#. [message]: id=Cavil
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:406
+msgid ""
+"At least show me the respect to kill me now that my life has become "
+"meaningless!"
+msgstr ""
+
+#. [message]: id=Brevryn
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:410
+msgid ""
+"I am afraid I cannot do that. And I really wish we could have met again "
+"under different circumstances. ...Take him away!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:444
+msgid ""
+"The life of the outlaw is a recurring tale. Most fail even in their early "
+"days to withstand the authorities. Some who call themselves lucky gain a "
+"short-lived advantage. But for all of them, the tale ends equally. They "
+"either get captured... or they get killed."
+msgstr ""
+
+#. [print]
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:462
+msgid "Rain"
+msgstr ""
+
+#. [print]
+#: The_Cost_Of_Living/scenarios/scenario_07.cfg:481
+msgid "Dry"
+msgstr ""
